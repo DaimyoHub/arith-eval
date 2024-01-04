@@ -1,0 +1,4 @@
+(executable
+ (public_name arc)
+ (name main)
+ (libraries arc))
