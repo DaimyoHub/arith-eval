@@ -1,8 +1,0 @@
-lib: [
-  "_build/install/default/lib/arc/META"
-  "_build/install/default/lib/arc/dune-package"
-  "_build/install/default/lib/arc/opam"
-]
-bin: [
-  "_build/install/default/bin/arc"
-]
